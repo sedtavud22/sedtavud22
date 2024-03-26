@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Phoo </h1>
 <h3 align="center">Junior Full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paritasriwasut&label=Profile%20views&color=0e75b6&style=flat" alt="paritasriwasut" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedtavud22&label=Profile%20views&color=0e75b6&style=flat" alt="sedtavud22" /> </p>
 
 - 🔭 I’m currently working on :
 - 🌱 I’m currently learning : **TypeScript, Next.js, MongoDB**
