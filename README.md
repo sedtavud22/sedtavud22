@@ -8,7 +8,7 @@
 
 - 📫 How to reach me : **phoosed@gmail.com**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1QMT-O-DYjpMNiKY2k39Ly_CxuhRRfxrU/view?usp=sharing)
+- 📄 Know about my experiences :
 
 - 🤝 **Open to collaborating**
 
